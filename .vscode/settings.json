@@ -1,0 +1,8 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.variables": {
+        "lang": "en"
+    },
+    "editor.cursorStyle": "line",
+    "terminal.integrated.cursorStyle": "line"
+}
